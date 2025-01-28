@@ -1,0 +1,14 @@
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\obj\Debug\net9.0\ERDEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\obj\Debug\net9.0\ERDEM.AssemblyInfoInputs.cache
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\obj\Debug\net9.0\ERDEM.AssemblyInfo.cs
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\obj\Debug\net9.0\ERDEM.csproj.CoreCompileInputs.cache
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\bin\Debug\net9.0\ERDEM.exe
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\bin\Debug\net9.0\ERDEM.deps.json
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\bin\Debug\net9.0\ERDEM.runtimeconfig.json
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\bin\Debug\net9.0\ERDEM.dll
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\bin\Debug\net9.0\ERDEM.pdb
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\obj\Debug\net9.0\ERDEM.dll
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\obj\Debug\net9.0\refint\ERDEM.dll
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\obj\Debug\net9.0\ERDEM.pdb
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\obj\Debug\net9.0\ERDEM.genruntimeconfig.cache
+C:\Users\erdem\OneDrive\Masaüstü\Final yazılım oyn\ERDEM\obj\Debug\net9.0\ref\ERDEM.dll

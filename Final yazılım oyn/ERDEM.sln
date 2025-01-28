@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERDEM", "ERDEM\ERDEM.csproj", "{47F1902D-CA18-4F44-BC69-89B1FCD47135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "layer", "layer\layer.csproj", "{F762D9E1-25F4-4069-AA75-C7C9905ACFCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEN", "SEN\SEN.csproj", "{C1952C4E-3C6C-4C02-BC62-341B2609411C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F1902D-CA18-4F44-BC69-89B1FCD47135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F1902D-CA18-4F44-BC69-89B1FCD47135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F1902D-CA18-4F44-BC69-89B1FCD47135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F1902D-CA18-4F44-BC69-89B1FCD47135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F762D9E1-25F4-4069-AA75-C7C9905ACFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F762D9E1-25F4-4069-AA75-C7C9905ACFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F762D9E1-25F4-4069-AA75-C7C9905ACFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F762D9E1-25F4-4069-AA75-C7C9905ACFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1952C4E-3C6C-4C02-BC62-341B2609411C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1952C4E-3C6C-4C02-BC62-341B2609411C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1952C4E-3C6C-4C02-BC62-341B2609411C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1952C4E-3C6C-4C02-BC62-341B2609411C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
